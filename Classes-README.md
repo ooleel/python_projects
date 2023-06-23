@@ -1,4 +1,4 @@
-<sub>codecademy_projects</sub>
+<sub>codecademy projects - classes</sub>
 
 # Basta Fazoolin’
 
