@@ -78,8 +78,8 @@ arepas_place = Franchise("189 Fitzgerald Avenue", menus)
 
 #print(flagship_store)
 
-#print(flagship_store.available_menus(1200))
-#print(new_installment.available_menus(1700))
+#print(flagship_store.available_menus(time))
+#print(new_installment.available_menus(time))
 
 #Business
 bfwmh = Business("Basta Fazoolin' with my heart", [flagship_store, new_installment])
